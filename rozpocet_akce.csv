@@ -1,0 +1,64 @@
+﻿Č. ř.;Kategorie;Položka;Dodavatel / zdroj;Plán (Kč);Skutečnost (Kč);Rozdíl (Kč);Čerpání %;Stav úhrady
+1;Výnosy;Vstupné – prodej vstupenek;(registrační systém);1 350 000;1 239 300;-110 700;91,8%;Průběžně
+2;Výnosy;Partnerství – Generální partner;Cloudex a.s.;350 000;350 000;0;100,0%;Uhrazeno
+3;Výnosy;Partnerství – Hlavní partneři (3×);různí;450 000;450 000;0;100,0%;Uhrazeno
+4;Výnosy;Partnerství – Vystavovatelé (8×);různí;320 000;280 000;-40 000;87,5%;Uhrazeno
+5;Výnosy;Dotace – Jihomoravský inovační fond (fikt.);JMIF;150 000;120 000;-30 000;80,0%;Uhrazeno
+;Mezisoučet – Výnosy;;;2 620 000;2 439 300;-180 700;93,1%;
+;;;;;;;;
+6;Prostory;Pronájem kongresového sálu (2 dny);Kongresové centrum Riviéra;280 000;280 000;0;100,0%;Uhrazeno
+7;Prostory;Pronájem 2 menších sálů (workshopy);Kongresové centrum Riviéra;60 000;72 000;12 000;120,0%;Uhrazeno
+8;Prostory;Úklid a ostraha;Kongresové centrum Riviéra;25 000;25 000;0;100,0%;Uhrazeno
+9;Prostory;Prostor pro večerní raut;Bistro Group s.r.o.;45 000;45 000;0;100,0%;Uhrazeno
+;Mezisoučet – Prostory;;;410 000;422 000;12 000;102,9%;
+;;;;;;;;
+10;Catering;Coffee breaky (4×, cca 260 os.);Bistro Group s.r.o.;156 000;171 600;15 600;110,0%;Uhrazeno
+11;Catering;Obědy (2×);Bistro Group s.r.o.;182 000;176 400;-5 600;96,9%;Uhrazeno
+12;Catering;Večerní raut 21. 5.;Bistro Group s.r.o.;165 000;189 750;24 750;115,0%;Čeká na schválení
+13;Catering;VIP večeře 21. 5.;Restaurace U Zlatého kohouta (fikt.);38 000;41 200;3 200;108,4%;Uhrazeno
+14;Catering;Voda a nápoje pro řečníky;Bistro Group s.r.o.;6 000;4 300;-1 700;71,7%;Uhrazeno
+;Mezisoučet – Catering;;;547 000;583 250;36 250;106,6%;
+;;;;;;;;
+15;Technika a AV;Ozvučení, projekce, LED stěna;AV Servis Morava (fikt.);195 000;195 000;0;100,0%;Uhrazeno
+16;Technika a AV;Streaming a záznam přednášek;StreamBox s.r.o. (fikt.);85 000;92 500;7 500;108,8%;Uhrazeno
+17;Technika a AV;Tlumočení CZ/EN (kabina, 2 tlumočníci);Lingua Brno (fikt.);64 000;64 000;0;100,0%;Uhrazeno
+18;Technika a AV;Registrační terminály a tisk jmenovek;EVSYS (licence);28 000;28 000;0;100,0%;Uhrazeno
+19;Technika a AV;Wi-Fi posílení;Kongresové centrum Riviéra;15 000;18 500;3 500;123,3%;Po splatnosti
+;Mezisoučet – Technika a AV;;;387 000;398 000;11 000;102,8%;
+;;;;;;;;
+20;Řečníci;Honoráře keynote řečníků (3×);různí;180 000;165 000;-15 000;91,7%;Uhrazeno
+21;Řečníci;Cestovné řečníků;různí (viz cestovní příkazy);70 000;83 400;13 400;119,1%;Uhrazeno
+22;Řečníci;Ubytování řečníků a VIP;smluvní hotely;75 000;159 300;84 300;212,4%;Uhrazeno
+23;Řečníci;Dárky pro řečníky;Sklárna Křišťál s.r.o.;18 000;16 800;-1 200;93,3%;Uhrazeno
+;Mezisoučet – Řečníci;;;343 000;424 500;81 500;123,8%;
+;;;;;;;;
+24;Marketing;Výkonnostní kampaně (Google, Meta, LinkedIn);interně;120 000;134 800;14 800;112,3%;Průběžně
+25;Marketing;Grafika a web akce;Grafitek s.r.o.;65 000;65 000;0;100,0%;Uhrazeno
+26;Marketing;PR a tiskové zprávy;Mediaforma a.s.;40 000;40 000;0;100,0%;Uhrazeno
+27;Marketing;Foto a video z akce;Studio Okamžik (fikt.);35 000;38 500;3 500;110,0%;Uhrazeno
+;Mezisoučet – Marketing;;;260 000;278 300;18 300;107,0%;
+;;;;;;;;
+28;Personál;Hostesky a registrace (6 os. × 2 dny);Agentura Usměv (fikt.);43 200;43 200;0;100,0%;Uhrazeno
+29;Personál;Moderátor;OSVČ;30 000;30 000;0;100,0%;Uhrazeno
+30;Personál;Produkce – externí spolupracovníci;OSVČ;60 000;66 000;6 000;110,0%;Čeká na schválení
+;Mezisoučet – Personál;;;133 200;139 200;6 000;104,5%;
+;;;;;;;;
+31;Tisk a merch;Tištěný program a mapy;Tiskárna Vranov (fikt.);22 000;19 600;-2 400;89,1%;Uhrazeno
+32;Tisk a merch;Trička a tašky pro účastníky;Grafitek s.r.o.;52 000;54 900;2 900;105,6%;Uhrazeno
+33;Tisk a merch;Roll-upy a branding sálu;Grafitek s.r.o.;28 000;28 000;0;100,0%;Uhrazeno
+;Mezisoučet – Tisk a merch;;;102 000;102 500;500;100,5%;
+;;;;;;;;
+34;Ostatní;Pojištění akce;Pojišťovna Stálost a.s.;12 000;12 000;0;100,0%;Uhrazeno
+35;Ostatní;Poplatky OSA/Intergram;OSA;6 500;6 500;0;100,0%;Uhrazeno
+36;Ostatní;Rezerva na nepředvídané výdaje;–;80 000;21 300;-58 700;26,6%;–
+;Mezisoučet – Ostatní;;;98 500;39 800;-58 700;40,4%;
+;;;;;;;;
+;;;;;;;;
+;NÁKLADY CELKEM;;;2 280 700;2 387 550;;;
+;VÝNOSY CELKEM;;;2 620 000;2 439 300;;;
+;HOSPODÁŘSKÝ VÝSLEDEK AKCE;;;339 300;51 750;;;
+;;;;;;;;
+;;;;;;;;
+Schválil (vedoucí zakázky): ...............................      Datum: ..................;;;;;;;;
+;;;;;;;;
+Strana 1 / 1 · Sestava EKO-R07;;;;;;;;
